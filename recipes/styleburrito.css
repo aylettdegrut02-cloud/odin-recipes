@@ -20,7 +20,7 @@ a:hover {
 img {
     box-sizing: border-box;
     display: block;
-    width: 100%;
+    width: auto;
     margin:auto;
 }
 
