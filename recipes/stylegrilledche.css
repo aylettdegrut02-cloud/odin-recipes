@@ -1,0 +1,68 @@
+/* colour pallete black #141619, greyish #2C2E3A, darker blue 050A44, blue #0A21C0, #B3B4BD */
+
+* {
+  box-sizing: border-box;
+  background-color: #1f2833;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.headingone {
+  color: #66fcf1;
+  display: block;
+  width: fit-content;
+  height: fit-content;
+  margin: 15px;
+}
+
+a {
+  border: 3px #66fcf1 solid;
+  width: fit-content;
+  padding: 5px;
+  margin: 15px;
+  display: block;
+  text-decoration: none;
+}
+
+div {
+  box-sizing: border-box;
+  border: 3px solid #66fcf1;
+  margin: 10px;
+  display: block;
+  width: fit-content;
+  height: fit-content;
+}
+
+.headingtwo {
+  color: #66fcf1;
+  margin: 15px;
+}
+
+p {
+    width: fit-content;
+    padding: 10px;
+  margin: 15px;
+}
+
+li {
+  margin: 10px;
+}
+
+ul {
+    text-align: left;
+    width: fit-content;
+  margin: 15px;
+  border: 3px solid #66fcf1;
+}
+
+ol {
+    width: fit-content;
+  margin: 15px;
+  border: 3px solid #66fcf1;
+}
+
+p{
+    padding
+    margin: 15px;
+    border:3px solid #66fcf1;
+}
