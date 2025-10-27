@@ -8,7 +8,7 @@
 }
 
 div > ol, ul {
-    margin: 10px;
+    margin: auto;
     border:3px solid #ECDFCC;
 }
 
@@ -40,6 +40,9 @@ img {
 }
 
 .description {
+    display: block;
+    margin: inherit;
+    text-align: center;
     border: 3px solid #ECDFCC;
     padding: 8px;
     background-color: #3C3D37;
